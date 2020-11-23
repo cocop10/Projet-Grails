@@ -5,3 +5,5 @@ Projet créé dans le cadre du module "Serveurs d'applications et environnement 
 - Grails (Groovy Framework)
 - HTML/CSS
 - JavaScript
+
+Utilisation de Postman
